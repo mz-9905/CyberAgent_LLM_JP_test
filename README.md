@@ -1,4 +1,4 @@
-# CyberAgent の 日本語LLM を Google Colab で試すためのノートブック
+# CyberAgent の 日本語LLM を Google Colab で試すためのノートブック (非公式)
 
 <a href="https://colab.research.google.com/github/mz-9905/CyberAgent_LLM_JP_test/blob/main/CyberAgent_LLM_test.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
@@ -8,6 +8,8 @@
 左上のボタンを押せばGoogle Colabのページに遷移できます。
 
 また、今回のコードはCyberAgentがHugging Faceに公開しているお試し用コードを基に作成しています。
+
+(※私自身はCyberAgent社とは一切関係のない一般人であり、このリポジトリも非公式のものです。)
 
 ＜参考文献＞
 *   『サイバーエージェント、最大68億パラメータの日本語LLM（大規模言語モデル）を一般公開 ―オープンなデータで学習した商用利用可能なモデルを提供― | CyberAgent』(URL: https://www.cyberagent.co.jp/news/detail/id=28817 )
